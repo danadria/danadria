@@ -45,7 +45,7 @@
 If you're interested in any of my work or think I could help you with yours, feel free to reach out!
 
 <p align="center">
-<a href="https://www.danadria.com"><img src="https://img.shields.io/badge/-danadria.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.danadria.com"><img src="https://img.shields.io/badge/-danadria.com-3423A6?style=flat&logo=Jekyll&logoColor=white"/></a>
 <a href="mailto:d.anadria@uu.nl"><img src="https://img.shields.io/badge/-d.anadria@uu.nl-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
