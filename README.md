@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
+I'm [Daniel Anadria](https://danadria.com/)
+
+- 🔭 I’m pursuing a PhD in clinical natural language processing at Utrecht University
+- 🌱 I’m currently learning about algorithmic fairness
+- ⚡ I love meeting new people and discussing shared interest
+- 💬 If you're interested in any of my work or wish to colaborate - [reach out!](mailto:danadria@uu.nl) 
+
 
 <!--
 **danadria/danadria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
