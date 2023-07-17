@@ -1,21 +1,20 @@
-### Hi there! 👋
-I'm [Daniel](https://danadria.com/)
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm [Daniel Anadria](https://danadria.com/)</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 &nbsp;I’m pursuing a PhD in clinical natural language processing at Utrecht University
-- 🦾 &nbsp;My background is in methodology and statistics, applied data science, text mining, and research psychology
-- 🌱 &nbsp;I’m currently learning about algorithmic fairness
+- 🦾 &nbsp;My background is in text mining, methodology and statistics, applied data science, and research psychology
+- 🌱 &nbsp;I’m currently learning about algorithmic fairness in healthcare
 - ⚡ &nbsp;I love chatting and meeting new people
-- 💬 &nbsp;Do [reach out!](mailto:danadria@uu.nl) 
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -25,6 +24,16 @@ I'm [Daniel](https://danadria.com/)
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danadria&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 🤝🏻 &nbsp;Get in Touch
+
+<p align="center">
+<a href="https://www.danadria.com"><img src="https://img.shields.io/badge/-danadria.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:d.anadria@uu.nl"><img src="https://img.shields.io/badge/-d.anadria@uu.nl-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+</p>
+
+
 
 <!--
 **danadria/danadria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
