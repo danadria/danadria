@@ -1,7 +1,13 @@
 # Hey there! <img alt="Hello" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-### I'm [Daniel Anadria](https://danadria.com/) 🙂
+### My name is [Daniel Anadria](https://danadria.com/) 🙂
 
+<br>
+<img alt="Pengwang" src="https://raw.githubusercontent.com/danadria/danadria/master/assets/penguin.gif" width="400" align="center"/>
+<br>
+
+<p>
+  
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 &nbsp;I’m pursuing a PhD in clinical natural language processing at Utrecht University
 - 🦾 &nbsp;My background is in text mining, methodology and statistics, applied data science, and research psychology
@@ -10,9 +16,10 @@
 - 🇳🇱 &nbsp;Praat Nederlands met me 😉
 
 <br>
-
-<img alt="Flow" src="https://raw.githubusercontent.com/danadria/danadria/master/assets/flow.gif" width="4000" align="left"/>
+<img alt="Flow" src="https://raw.githubusercontent.com/danadria/danadria/master/assets/flow.gif" width="2000" align="center"/>
 <br>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
