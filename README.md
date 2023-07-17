@@ -1,10 +1,18 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm [Daniel Anadria](https://danadria.com/)</h2>
+# Hey there! <img alt="Hello" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+
+### I'm [Daniel Anadria](https://danadria.com/) 🙂
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 &nbsp;I’m pursuing a PhD in clinical natural language processing at Utrecht University
 - 🦾 &nbsp;My background is in text mining, methodology and statistics, applied data science, and research psychology
 - 🌱 &nbsp;I’m currently learning about algorithmic fairness in healthcare
 - ⚡ &nbsp;I love chatting and meeting new people
+- 🇳🇱 &nbsp;Praat Nederlands met me 😉
+
+<br>
+
+<img alt="Flow" src="https://raw.githubusercontent.com/danadria/danadria/master/assets/flow.gif" width="4000" align="left"/>
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -20,12 +28,14 @@
 
 <p align="center">
 <a href="https://github.com/danadria">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danadria&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danadria&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danadria&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danadria&layout=compact&langs_count=8&theme=default"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Get in Touch
+
+If you're interested in any of my work or think I could help you with yours, feel free to reach out!
 
 <p align="center">
 <a href="https://www.danadria.com"><img src="https://img.shields.io/badge/-danadria.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
