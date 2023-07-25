@@ -8,7 +8,7 @@
 - 🦾 &nbsp;My background is in text mining, applied data science, methodology and statistics, and research psychology
 - 🌱 &nbsp;I’m currently learning about algorithmic fairness in healthcare
 - ⚡ &nbsp;I love chatting and meeting new people
-- 🇳🇱 &nbsp;Praat Nederlands met me 😉
+- 🇳🇱 &nbsp;Praat Nederlands met me! 😉
 
 <br>
 <img alt="Pengwang" src="https://raw.githubusercontent.com/danadria/danadria/master/assets/penguin.gif" width="400" align="center"/>
