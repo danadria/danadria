@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;My name is [Daniel Anadria](https://danadria.com/)
   
-- 🔭 &nbsp;I’m pursuing a PhD in clinical natural language processing at Utrecht University
+- 🔭 &nbsp;I’m pursuing a PhD in trustworthy artificial intelligence at Utrecht University
 - 🦾 &nbsp;My background is in text mining, applied data science, methodology and statistics, and research psychology
-- 🌱 &nbsp;I’m currently learning about algorithmic fairness in healthcare
+- 🌱 &nbsp;I’m currently learning about system safety and hazard analysis
 - ⚡ &nbsp;I love chatting and meeting new people
 - 🇳🇱 &nbsp;Praat Nederlands met me! 😉
 
