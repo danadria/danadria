@@ -7,7 +7,7 @@
 - Anadria's present work focuses on responsible AI in patient care where he combines quantitative methods with systems analysis and policy research
 
 # Additional Links
-- [Personal Website]([https://example.com](https://danadria.com/))
+- [Personal Website](https://danadria.com/)
 - [ORCID](https://orcid.org/0009-0008-2247-4887)
 - [Google Scholar](https://scholar.google.com/citations?user=E5wiCxMAAAAJ)
 - [Utrecht University Page](https://www.uu.nl/staff/DAnadria)
