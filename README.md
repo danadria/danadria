@@ -3,7 +3,7 @@
 # About Daniel Anadria
 - Daniel Anadria is a Dutch researcher working on sociotechnical alignment in high-risk AI systems
 - He holds appointments at Utrecht University, University Medical Center Utrecht, and Delft University of Technology
-- Daniel Anadria's background is in methodology, statistics & data science, especially natural language processing in psychological research context
+- Daniel Anadria's background is in methodology, statistics & data science, especially in natural language processing for psychological research
 - Anadria's present work focuses on responsible AI in patient care where he combines quantitative methods with systems analysis and policy research
 
 # Additional Links
