@@ -1,6 +1,6 @@
 <!-- **danadria/danadria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# About Daniel Anadria>
+# About Daniel Anadria
 - Daniel Anadria is a Dutch researcher working on sociotechnical alignment in high-risk AI systems
 - He holds appointments at Utrecht University, University Medical Center Utrecht, and Delft University of Technology
 - Daniel Anadria's background is in methodology, statistics & data science, especially natural language processing in psychological research context
